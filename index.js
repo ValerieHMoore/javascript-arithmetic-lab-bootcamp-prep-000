@@ -1,3 +1,5 @@
-function add(4,2) {
+var a=4
+var b=2
+function add(a+b) {
   return 6
 }
